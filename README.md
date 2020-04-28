@@ -65,7 +65,8 @@ Proposer des séances de méditation en ligne.
 
 Certaines enseignes proposent de faire des escape game collaboratifs à distance.
 
-https://www.enigmalyon.fr/
+  * [Enigma Lyon](https://www.enigmalyon.fr/)
+  * [Team Break](https://team-break.fr/missions/jeu-visio-confinement)
 
 ### Jeux de plateau en ligne
 
@@ -93,6 +94,8 @@ Mettre en scène une imitation d'une peinture célèbre, avec les moyens du bord
 Mettre en scène une imitation d'une affiche de film, avec les moyens du bord, plus ou moins réaliste, et la prendre en photo.
 
 ### Masques maison
+
+Partager une photo de son masque anti-contamination fait maison.
 
 ## Club de partage
 

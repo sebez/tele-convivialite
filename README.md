@@ -8,7 +8,7 @@ Nous ne sommes pas tous égaux devant le confinement.
 
 Là où des personnes extraverties vivant seules auront besoin de beaucoup de distractions pour compenser l'absence de sociabilisation, d'autres personnes introverties seront très heureuses d'être au calme chez elles, en dehors des open space.
 
-Un célibataire ne cherchera pas le même type d'activité qu'un foyer avec de jeunes enfants.
+Un célibataire ne cherchera pas le même type d'activités qu'un foyer avec de jeunes enfants.
 
 Il convient donc d'offrir une pluralité d'activité, dont la participation reste basée sur le volontariat.
 
@@ -51,10 +51,13 @@ Proposer des conseils pour bien se tenir au boulot, s'étirer régulièrement.
 Proposer des cours en lignes d'exercice physique pouvant se faire chez soi (Yoga / Cardio / Fitness...)
 
   * [TrainMe](https://trainme.co/)
+  * [FizzUp](https://www.fizzup.com/fr/)
 
 ### Méditation
 
-Proposer des appli de méditation.
+Proposer des séances de méditation en ligne.
+
+  * [Mind](https://www.mind-app.io/)
 
 ## Jeux collectifs
 

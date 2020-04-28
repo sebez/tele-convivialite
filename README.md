@@ -12,11 +12,49 @@ Un célibataire ne cherchera pas le même type d'activité qu'un foyer avec de j
 
 Il convient donc d'offrir une pluralité d'activité, dont la participation reste basée sur le volontariat.
 
+## Communications RH
+
+Faire une news letter hebdo pour garder tout le monde au courant des activités de l'entreprise.
+
+  * prochaines événements
+  * anniversaires de la semaine
+  * naissances
+  * astuces de télé-travail
+
+## Communication diverses
+
+### Channel astuce de télé-travail
+
+### Channel blagues sur le confinement
+
+Ça détend.
+
 ## Activités sociales
 
 ### Télé-café
 
-## Exercice physique
+Proposer régulièrement une télé-pause en visio/audio, avec plusieurs "salles" virtuelles.
+
+  * [Discord](https://discordapp.com/)
+  * [Remo](https://remo.co/)
+
+## Santé physique & psychologique
+
+### Environnement  de travail
+
+Proposer des conseils pour bien se tenir au boulot, s'étirer régulièrement.
+
+  * [yogist](https://yogist.fr/)
+
+### Exercice physique
+
+Proposer des cours en lignes d'exercice physique pouvant se faire chez soi (Yoga / Cardio / Fitness...)
+
+  * [TrainMe](https://trainme.co/)
+
+### Méditation
+
+Proposer des appli de méditation.
 
 ## Jeux collectifs
 

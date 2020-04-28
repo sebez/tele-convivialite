@@ -75,7 +75,6 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
   * [Boardgamearena](https://fr.boardgamearena.com/)
   * [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/?l=french)
 
-### Channel blagues sur slack
 
 ## Concours créatifs
 

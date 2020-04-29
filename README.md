@@ -78,7 +78,7 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
   * Généraliste
     * [Boardgamearena](https://fr.boardgamearena.com/) : Carcassonne, 7 Wonders, 6 qui prend !, Hanabi, Race for the Galaxy, Saboteur, Roll for the Galaxy, Colt Express, Dame de Pique, ...
     * [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/?l=french)
-    * [Jeux gratuits](https://www.jeux-gratuits.com/jeux-multijoueurs.html)
+    * [Jeux gratuits](https://www.jeux-gratuits.com/jeux-multijoueurs.html) : Uno, Monopoly...
   * Loup-garou
     * [Wolfy](https://wolfy.fr/)
   * Deviner un dessin

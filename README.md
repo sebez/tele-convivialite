@@ -90,7 +90,9 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
 
 ## Concours créatifs
 
-A partir d'un sujet, chaque personne travaille chez elle pour préparer une oeuvre, dans un temps imparti (par exemple une semaine). Ensuite, toutes les oeuvres sont partagées entre les participants.
+A partir d'un sujet, chaque personne travaille chez elle pour préparer une oeuvre, dans un temps imparti (par exemple une semaine). Ensuite, toutes les oeuvres sont partagées entre les participants. 
+
+**Permet de faire participer les enfants.**
 
 ### Peintures célèbres
 
@@ -103,6 +105,10 @@ Mettre en scène une imitation d'une peinture célèbre, avec les moyens du bord
 ### Affiches de film
 
 Mettre en scène une imitation d'une affiche de film, avec les moyens du bord, plus ou moins réaliste, et la prendre en photo.
+
+### Sculpture
+
+Pour les enfants, réalisation de sculpture en pâte à sel / pâte à modeler, à partir d'un thème donné.
 
 ### Masques maison
 

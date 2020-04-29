@@ -23,11 +23,19 @@ Faire une news letter hebdo pour garder tout le monde au courant des activités 
 
 ## Communication diverses
 
-### Channel astuce de télé-travail
+Si l'entreprise/la Business Unit/l'équipe possède un outil comme slack/mattermost, créer des channels dédiées spéciales confinement.
+
+### Channel astuces de télé-travail
+
+Organisation du temps et de l'espace, etc.
 
 ### Channel blagues sur le confinement
 
-Ça détend.
+Les réseaux sociaux sont prolifiquent en images/vidéos humoristiques sur le confinement qui ne demandent qu'à être partagées.
+
+### Channel animaux domestiques en télé-travail
+
+Les chats sont particulièrement 
 
 ## Activités sociales
 
@@ -106,6 +114,10 @@ Mettre en scène une imitation d'une peinture célèbre, avec les moyens du bord
 
 Mettre en scène une imitation d'une affiche de film, avec les moyens du bord, plus ou moins réaliste, et la prendre en photo.
 
+### Photos
+
+C'est le moment de réssuciter le Club Photo avec des thèmes d'intérieur comme des natures mortes.
+
 ### Sculpture
 
 Pour les enfants, réalisation de sculpture en pâte à sel / pâte à modeler, à partir d'un thème donné.
@@ -122,10 +134,14 @@ L'idée est de réunir un club pour partager une expérience.
  
 Chacun partage un livre qu'il a lu et qu'il conseille.
 
+### Club ciné
+
+Chacun partage un film qu'il a vu et qu'il conseille.
+
 ### Club marmiton
 
 Comme un concours de cuisine, mais on ne pourra pas goûter le plat des autres...
-L'appréciation se fera sur le visuel.
+L'appréciation se fera sur le visuel. Faut que ça brille.
 
 ## Quizz
 

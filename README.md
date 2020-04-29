@@ -12,18 +12,17 @@ Un célibataire ne cherchera pas le même type d'activités qu'un foyer avec de 
 
 Il convient donc d'offrir une pluralité d'activité, dont la participation reste basée sur le volontariat.
 
-## Communications RH
+## Communication diverses
 
-Faire une news letter hebdo pour garder tout le monde au courant des activités de l'entreprise.
+Si l'entreprise/la Business Unit/l'équipe possède un outil comme slack/mattermost, créer des channels dédiées spéciales confinement.
+
+### Channel RH
 
   * prochaines événements
   * anniversaires de la semaine
   * naissances
-  * astuces de télé-travail
 
-## Communication diverses
-
-Si l'entreprise/la Business Unit/l'équipe possède un outil comme slack/mattermost, créer des channels dédiées spéciales confinement.
+Cela peut également se faire par une news hebdo par courriel.
 
 ### Channel astuces de télé-travail
 

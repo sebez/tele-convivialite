@@ -35,7 +35,7 @@ Les réseaux sociaux sont prolifiquent en images/vidéos humoristiques sur le co
 
 ### Channel animaux domestiques en télé-travail
 
-Les chats sont particulièrement 
+Les chats sont particulièrement taquins pour s'asseoir sur le clavier / devant l'écran / sur leur propriétaire. Hop hop hop on partage.
 
 ## Activités sociales
 

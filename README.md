@@ -75,8 +75,14 @@ Certaines enseignes proposent de faire des escape game collaboratifs à distance
 
 Des plateformes proposent de participer à des jeux de plateau traditionnels dans leur version virtuelle multi-joueurs en ligne.
 
-  * [Boardgamearena](https://fr.boardgamearena.com/)
-  * [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/?l=french)
+  * Généraliste
+    * [Boardgamearena](https://fr.boardgamearena.com/)
+    * [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/?l=french)
+  * Loup-garou
+    * [Wolfy](https://wolfy.fr/)
+  * Deviner un dessin
+    * [Draw Something](https://play.google.com/store/apps/details?id=com.omgpop.dstfree&hl=fr)
+    * [Skribbl.io](https://skribbl.io/)
 
 
 ## Concours créatifs
@@ -114,10 +120,15 @@ L'appréciation se fera sur le visuel.
 
 ## Quizz
 
+En généraliste :
+  * [TopQuizz](https://www.topquizz.com/)
+
 ### Blind test
 
 Deviner le nom d'un morceau de musique à partir d'un extrait de quelques secondes.
-  
+
+  *  [Massive Music Quiz](https://www.massivemusicquiz.com/)
+
 ### Blind test de reprise
 
 Comme un blind test, mais avec des interprétations des morceaux originaux, reprise avec un seul instrument.

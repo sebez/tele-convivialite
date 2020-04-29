@@ -48,7 +48,9 @@ Proposer des conseils pour bien se tenir au boulot, s'étirer régulièrement.
 
 ### Exercice physique
 
-Proposer des cours en lignes d'exercice physique pouvant se faire chez soi (Yoga / Cardio / Fitness...)
+Proposer des cours en lignes d'exercice physique pouvant se faire chez soi (Yoga / Cardio / Fitness...).
+
+Certaines applications proposent un cours avec un prof suivi par plusieurs personnes en même temps en visio.
 
   * [TrainMe](https://trainme.co/)
   * [FizzUp](https://www.fizzup.com/fr/)

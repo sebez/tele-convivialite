@@ -142,6 +142,10 @@ Chacun partage un film qu'il a vu et qu'il conseille.
 Comme un concours de cuisine, mais on ne pourra pas goûter le plat des autres...
 L'appréciation se fera sur le visuel. Faut que ça brille.
 
+### Club de langues
+
+Télé-café où on parle une langue étrangère (anglais, japonais, italien, grec moderne...).
+
 ## Quizz
 
 En généraliste :

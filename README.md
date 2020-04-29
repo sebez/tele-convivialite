@@ -77,6 +77,7 @@ Certaines enseignes proposent de faire des escape game collaboratifs à distance
   * [Enigma Lyon](https://www.enigmalyon.fr/)
   * [Team Break](https://team-break.fr/missions/jeu-visio-confinement)
   * [Happy Kits](https://www.happykits.fr/accueil/194-escape-home-digital.html)
+  * [Zupple](https://zupple.fr/)
 
 ### Jeux de plateau en ligne
 

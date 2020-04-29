@@ -10,7 +10,7 @@ Là où des personnes extraverties vivant seules auront besoin de beaucoup de di
 
 Un célibataire ne cherchera pas le même type d'activités qu'un foyer avec de jeunes enfants.
 
-Il convient donc d'offrir une pluralité d'activité, dont la participation reste basée sur le volontariat.
+Il convient donc d'offrir une pluralité d'activités, dont la participation reste basée sur le volontariat.
 
 ## Communication diverses
 
@@ -173,3 +173,8 @@ Cela rajoute de la difficulté et de l'originalité car on ne se base plus sur l
 Deviner le film à partir d'une image du film.
 
   * [Exemple](https://hitek.fr/actualite/quizz-reconnaitre-images-films_7234)
+  
+## Autres ressources
+
+Acivités gratuites, à faire chez soi, pas forcément à plusieurs :
+  * [NeSortezPas](https://nesortezpas.com/)

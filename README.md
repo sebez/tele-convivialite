@@ -6,15 +6,15 @@ Idées en vrac pour la télé-convivialité pendant le confinement de 2020, nota
 
 Nous ne sommes pas tous égaux devant le confinement. 
 
-Là où des personnes extraverties vivant seules auront besoin de beaucoup de distractions pour compenser l'absence de sociabilisation, d'autres personnes introverties seront très heureuses d'être au calme chez elles, en dehors des open space.
+Là où des personnes extraverties vivant seules auront besoin de beaucoup d'intéractions pour compenser l'absence de sociabilisation, d'autres personnes introverties seront très heureuses d'être au calme chez elles, en dehors des open space.
 
 Un célibataire ne cherchera pas le même type d'activités qu'un foyer avec de jeunes enfants.
 
-Il convient donc d'offrir une pluralité d'activités, dont la participation reste basée sur le volontariat.
+Il convient donc d'offrir une pluralité d'activités, dont la participation reste basée sur le volontariat, et de ne pas chercher à imposer un bonheur conforme.
 
 ## Communication diverses
 
-Si l'entreprise/la Business Unit/l'équipe possède un outil comme slack/mattermost, créer des channels dédiées spéciales confinement.
+Si l'entreprise/la Business Unit/l'équipe possède une plateforme de communication collaborative comme slack/mattermost, créer des channels dédiés spécial confinement.
 
 ### Channel RH
 
@@ -30,7 +30,7 @@ Organisation du temps et de l'espace, etc.
 
 ### Channel blagues sur le confinement
 
-Les réseaux sociaux sont prolifiquent en images/vidéos humoristiques sur le confinement qui ne demandent qu'à être partagées.
+Les réseaux sociaux sont prolifiques en images/vidéos humoristiques sur le confinement qui ne demandent qu'à être partagées. Ça détend.
 
 ### Channel animaux domestiques en télé-travail
 
@@ -49,7 +49,7 @@ Proposer régulièrement une télé-pause en visio/audio, avec plusieurs "salles
 
 ### Environnement  de travail
 
-Proposer des conseils pour bien se tenir au boulot, s'étirer régulièrement.
+Proposer des conseils pour bien avoir une bonne posture, s'étirer régulièrement, etc.
 
   * [yogist](https://yogist.fr/)
 
@@ -72,11 +72,11 @@ Proposer des séances de méditation en ligne.
 
 ### Jeux d'évasion en ligne
 
-Certaines enseignes proposent de faire des escape game collaboratifs à distance.
-
-  * [Enigma Lyon](https://www.enigmalyon.fr/)
+Certaines enseignes proposent de faire des escape game collaboratifs en ligne.
+  
   * [Team Break](https://team-break.fr/missions/jeu-visio-confinement)
   * [Happy Kits](https://www.happykits.fr/accueil/194-escape-home-digital.html)
+  * [Enigma Lyon](https://www.enigmalyon.fr/)
   * [Zupple](https://zupple.fr/)
 
 ### Jeux de plateau en ligne
@@ -100,7 +100,7 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
 
 A partir d'un sujet, chaque personne travaille chez elle pour préparer une oeuvre, dans un temps imparti (par exemple une semaine). Ensuite, toutes les oeuvres sont partagées entre les participants. 
 
-**Permet de faire participer les enfants.**
+**==> Permet de faire participer les enfants. <==**
 
 ### Peintures célèbres
 
@@ -116,7 +116,7 @@ Mettre en scène une imitation d'une affiche de film, avec les moyens du bord, p
 
 ### Photos
 
-C'est le moment de réssuciter le Club Photo avec des thèmes d'intérieur comme des natures mortes.
+C'est le moment de réssuciter le Club Photo avec des thèmes d'intérieur comme des portraits ou des natures mortes.
 
 ### Sculpture
 
@@ -162,7 +162,7 @@ Deviner le nom d'un morceau de musique à partir d'un extrait de quelques second
 
 Comme un blind test, mais avec des interprétations des morceaux originaux, reprise avec un seul instrument.
 
-  * au piano
+  * [au piano](https://github.com/sebez/piano-blind-test)
   * [à la flûte](https://www.youtube.com/watch?v=_1TXqqOkvBY)
   * au kazoo
 
@@ -178,7 +178,7 @@ Deviner le film à partir d'une image du film.
 
 Certaines entreprises distribuent parfois des cadeaux aux employés (comme du chocolat pour Pâques).
 
-Pendant le confinement, de telles traditions peuvent perdurer via des envois postaux.
+Pendant le confinement, de telles traditions pourraient perdurer via des envois postaux.
 
 ## Autres ressources
 

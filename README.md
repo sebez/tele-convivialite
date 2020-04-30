@@ -136,6 +136,10 @@ S'inspirer de [Viva l'Orchestra](https://www.youtube.com/watch?v=vuQ0TvyRtsY) po
 
 Organiser le [suédage de films](https://fr.wikipedia.org/wiki/Su%C3%A9dage). Chacun tourne une scène et l'ensemble est ensuite monté.
 
+### Cadavre exquis
+
+Le [jeu du cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis) peut se faire en écriture ou en graphique.
+
 ## Club de partage
 
 L'idée est de réunir un club pour partager une expérience.

@@ -164,7 +164,6 @@ Comme un blind test, mais avec des interprétations des morceaux originaux, repr
 
   * [au piano](https://github.com/sebez/piano-blind-test)
   * [à la flûte](https://www.youtube.com/watch?v=_1TXqqOkvBY)
-  * [à la Shitty flute](https://www.youtube.com/channel/UCHMmLi8z1HbyhTEvfBgXpyg/videos)
   * au kazoo
 
 Cela rajoute de la difficulté et de l'originalité car on ne se base plus sur l'orchestration et les paroles, mais que sur la mélodie.

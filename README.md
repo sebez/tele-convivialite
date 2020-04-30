@@ -126,6 +126,16 @@ Pour les enfants, réalisation de sculpture en pâte à sel / pâte à modeler, 
 
 Partager une photo de son masque anti-contamination fait maison.
 
+## Oeuvre artistique collective
+
+### Concert collaboratif
+
+S'inspirer de [Viva l'Orchestra](https://www.youtube.com/watch?v=vuQ0TvyRtsY) pour monter un concert collaboratif où chacun enregistre en vidéo sa partie.
+
+### Montage vidéo
+
+https://www.youtube.com/watch?v=vuQ0TvyRtsY
+
 ## Club de partage
 
 L'idée est de réunir un club pour partager une expérience.

@@ -1,6 +1,6 @@
 # Télé-convivialité
 
-Idées en vrac pour la télé-convivialité pendant le confinement de 2020, notamment pour maintenir la cohésion dans une entreprise en télé-travail.
+Idées en vrac pour la télé-convivialité pendant le confinement de 2020, notamment pour maintenir la cohésion dans une entreprise en télé-travail. 
 
 ## Prélude
 

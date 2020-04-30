@@ -18,7 +18,7 @@ Si l'entreprise/la Business Unit/l'équipe possède une plateforme de communicat
 
 ### Channel RH
 
-  * prochaines événements
+  * prochains événements
   * anniversaires de la semaine
   * naissances
 

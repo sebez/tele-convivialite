@@ -173,8 +173,14 @@ Cela rajoute de la difficulté et de l'originalité car on ne se base plus sur l
 Deviner le film à partir d'une image du film.
 
   * [Exemple](https://hitek.fr/actualite/quizz-reconnaitre-images-films_7234)
-  
+
+## Cadeaux
+
+Certaines entreprises distribuent parfois des cadeaux aux employés (comme du chocolat pour Pâques).
+
+Pendant le confinement, de telles traditions peuvent perdurer via des envois postaux.
+
 ## Autres ressources
 
-Acivités gratuites, à faire chez soi, pas forcément à plusieurs :
+Acivités gratuites, à faire chez soi, pas forcément à plusieurs, souvent pour les enfants :
   * [NeSortezPas](https://nesortezpas.com/)

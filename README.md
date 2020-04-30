@@ -182,5 +182,5 @@ Pendant le confinement, de telles traditions pourraient perdurer via des envois 
 
 ## Autres ressources
 
-Acivités gratuites, à faire chez soi, pas forcément à plusieurs, souvent pour les enfants :
+Acivités gratuites, à faire chez soi, pas forcément à plusieurs en ligne, souvent pour les enfants :
   * [NeSortezPas](https://nesortezpas.com/)

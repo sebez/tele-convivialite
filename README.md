@@ -132,9 +132,9 @@ Partager une photo de son masque anti-contamination fait maison.
 
 S'inspirer de [Viva l'Orchestra](https://www.youtube.com/watch?v=vuQ0TvyRtsY) pour monter un concert collaboratif où chacun enregistre en vidéo sa partie.
 
-### Montage vidéo
+### Film suédé
 
-https://www.youtube.com/watch?v=vuQ0TvyRtsY
+Organiser le [suédage de films](https://fr.wikipedia.org/wiki/Su%C3%A9dage). Chacun tourne une scène et l'ensemble est ensuite monté.
 
 ## Club de partage
 

@@ -191,6 +191,12 @@ Deviner le film à partir d'une image du film.
 
   * [Exemple](https://hitek.fr/actualite/quizz-reconnaitre-images-films_7234)
 
+### Jeux des émojis
+
+Deviner un concept (films...) à partir d'un rébus sous forme d'émojis
+
+  * [Sporcle](https://www.sporcle.com/games/tags/emoji)
+
 ## Cadeaux
 
 Certaines entreprises distribuent parfois des cadeaux aux employés (comme du chocolat pour Pâques).

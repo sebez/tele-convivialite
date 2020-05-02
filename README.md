@@ -196,6 +196,7 @@ Deviner le film à partir d'une image du film.
 Deviner un concept (films...) à partir d'un rébus sous forme d'émojis
 
   * [Sporcle](https://www.sporcle.com/games/tags/emoji)
+  * [GuessEmoji](https://guessemoji.org/)
 
 ## Cadeaux
 

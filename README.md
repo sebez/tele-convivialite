@@ -72,12 +72,12 @@ Proposer des séances de méditation en ligne.
 
 ### Jeux d'évasion en ligne
 
-Certaines enseignes proposent de faire des escape game collaboratifs en ligne.
+Certaines enseignes proposent de faire des escape game collaboratifs en ligne à faire à plusieurs en visio.
   
   * [Team Break](https://team-break.fr/missions/jeu-visio-confinement) (avec un game master)
   * [Happy Kits](https://www.happykits.fr/accueil/194-escape-home-digital.html) (sans game master)
   * [Hunting Town](https://www.hunting-town.com/escape-game/escape-game-virtuel/) (chasse aux énigmes dans StreetView avec un game master)
-  * [Goutte de vie](https://www.gouttedevie.com/escape-game-en-ligne/) (sans gamemaster)
+  * [Goutte de vie](https://www.gouttedevie.com/escape-game-en-ligne/) (sans game master)
   * [Diverty Events](https://www.divertyevents.fr/team-building-ludique/escape-game-visioconference/)
   
 

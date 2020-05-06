@@ -12,6 +12,11 @@ Un célibataire ne cherchera pas le même type d'activités qu'un foyer avec de 
 
 Il convient donc d'offrir une pluralité d'activités, dont la participation reste basée sur le volontariat, et de ne pas chercher à imposer un bonheur conforme.
 
+## Outils collaboratifs
+
+  * [Watch2gether](https://www.watch2gether.com) permet de regarder des vidéos à plusieurs avec un lecteur synchronisé
+
+
 ## Communication diverses
 
 Si l'entreprise/la Business Unit/l'équipe possède une plateforme de communication collaborative comme slack/mattermost, créer des channels dédiés spécial confinement.

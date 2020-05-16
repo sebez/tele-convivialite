@@ -105,7 +105,7 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
   * Échecs
     * [Lichess](https://lichess.org/)
 
-**TODO à analyser : ** [Online Board games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)
+**TODO à analyser :** [Online Board games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)
 
 ## Concours créatifs
 

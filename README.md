@@ -105,6 +105,8 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
   * Échecs
     * [Lichess](https://lichess.org/)
 
+**TODO à analyser : ** [Online Board games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)
+
 ## Concours créatifs
 
 A partir d'un sujet, chaque personne travaille chez elle pour préparer une oeuvre, dans un temps imparti (par exemple une semaine). Ensuite, toutes les oeuvres sont partagées entre les participants. 

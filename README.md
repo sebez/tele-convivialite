@@ -97,6 +97,7 @@ Des plateformes proposent de participer à des jeux de plateau traditionnels dan
     * [Plato](https://play.google.com/store/apps/details?id=com.plato.android) 
       * Loup-garou, Conspiracy, Bataille navale, Poker, Démineur, jeux de cartes...
       * Sur ordiphone
+  * [Code names](http://pink-cell.com/codenames/)
   * Loup-garou
     * [Wolfy](https://wolfy.fr/)
   * Deviner un dessin
